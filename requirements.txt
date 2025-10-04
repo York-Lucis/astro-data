@@ -1,2 +1,4 @@
 skyfield>=1.46
 pytz>=2023.3
+rich>=13.7.0
+python-Levenshtein>=0.23.0
