@@ -3,6 +3,9 @@ __pycache__/
 *.py[codz]
 *$py.class
 
+# Skyfield cache
+*.bsp
+
 # C extensions
 *.so
 
